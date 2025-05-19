@@ -1,4 +1,4 @@
-#Installation Manual
+# Installation Manual
 Deploy Using AWS Management Console 
 1. Open the CloudFormation console. 
 2. Click Create stack > With new resources (standard). 
